@@ -7,7 +7,9 @@ Check sites for Nes Classic availability
 
 ## Setup
 - Add twitter keys to
+```    
     C_KEY = ""
     C_SECRET = ""
     A_TOKEN = ""
     A_TOKEN_SECRET = ""
+```
